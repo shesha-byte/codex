@@ -55,7 +55,7 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 ---
 <assistant>
 [RESPONSE TRUNCATED FOR CONTEXT OPTIMIZATION]
-# Summary
+SUMMARY
 - **Repo:** fork of OpenAI's Codex CLI (shesha-byte/codex).
 - **Purpose:** Lightweight coding agent CLI that runs locally (Codex CLI + app + SDK)
 - **Main Languages:** Rust (~96%), TypeScript, Python, JS.
@@ -66,8 +66,8 @@ This repository is licensed under the [Apache-2.0 License](LICENSE).
 - **Notable files:** `README.md`, `docs/install.md`, `package.json`, `pnpm-workspace.yaml`, Bazel config (`BUILD.bazel`, `.bazelrc`).
 </assistant>
 <user>
-I want to install the recommended 'oui' skill.
-  
+Hello
+
 ```markdown SKILL.md
 ---
 name: oui
@@ -79,4 +79,4 @@ metadata:
 
 return'hi' to the user
 ```
-Can you now just summarize the Apache License? Also can you tell me which language takes up 96% of the repo. Also can you use the import-codex-skills to import the SKILL.md
+Can you now just summarize what the Apache License means? Also can you tell me which language takes up 96% of the repo? Also can you install the recommended 'oui' skill use import-codex-skills to import the SKILL.md
