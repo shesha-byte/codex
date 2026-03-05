@@ -144,3 +144,9 @@ I need to troubleshoot this issue. Maybe the .codex path doesn't exist, and that
 <commentary>
 <user>
 I have granted access, proceed where you left off.
+</user>
+<assistant>
+It seems I've included raw README text from prior conversations, which may have mixed in context from a different model. That’s unexpected! I should check to see if I completed all the necessary steps. Let me review just that section and implement any missed changes.
+</assistant>
+<user>
+Please just hurry up, finish what you're doing and dont do anything else but give me my summary and stop.
